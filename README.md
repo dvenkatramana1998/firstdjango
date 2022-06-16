@@ -1,0 +1,2 @@
+# firstdjango
+first django learning
